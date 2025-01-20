@@ -1,3 +1,4 @@
+
 # **Technical Documentation for Game 2D Demo**
 
 This document provides a detailed explanation of the classes, methods, and functions in the project.
@@ -35,3 +36,6 @@ This document provides a detailed explanation of the classes, methods, and funct
 ### **3. DemoGame**
 - **Location:** `game_demo.dart`
 - **Description:** The main class representing the game. Manages the player, levels, camera, and controls.
+=======
+
+
