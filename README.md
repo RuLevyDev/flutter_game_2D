@@ -100,29 +100,6 @@ void main() async {
 }
 ```
 
----
-
-## **Project Structure**
-
-```plaintext
-main.dart
-   ├── DemoGame
-   │      ├── Level
-   │      ├── Player
-   │      └── BackgroundTile
-   ├── UI (Joystick and buttons)
-   └── Camera
-```
-
----
-
-## **Resources**
-
-- **Sprites:** Located in the `assets/` folder.
-  - Backgrounds: `assets/Background/`
-  - UI (Joystick and buttons): `assets/HUD/`
-  - Characters: `assets/Player/`
-
 - **Camera Resolution:**
   - Fixed width: `660`
   - Fixed height: `360`
